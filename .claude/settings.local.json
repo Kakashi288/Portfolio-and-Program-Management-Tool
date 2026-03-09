@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(./node_modules/.bin/tailwindcss:*)",
+      "Bash(mkdir:*)",
+      "Bash(tree:*)",
+      "Bash(npm run build:*)",
+      "Bash(lsof:*)",
+      "Bash(npx tsc:*)",
+      "Bash(curl:*)",
+      "Bash(cd:*)",
+      "Bash(xargs kill -9)",
+      "WebFetch(domain:radar.apple.com)",
+      "Bash(npm start)"
+    ]
+  }
+}
